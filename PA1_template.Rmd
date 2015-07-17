@@ -1,7 +1,7 @@
 ---
 title: "RepData_PeerAssessment1"
 author: "ZPG"
-date: "Wednesday, July 15, 2015"
+date: "Friday, July 17, 2015"
 output: html_document
 ---
 
